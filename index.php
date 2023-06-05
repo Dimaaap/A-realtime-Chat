@@ -34,6 +34,7 @@
                 <div class="field input">
                     <label>Password</label>
                     <input type="password" placeholder="Enter new password">
+                    <i class="fas fa-eye"></i>
                 </div>
                 <div class="field image">
                     <label>Select Image</label>
@@ -46,5 +47,8 @@
             <div class="link">Already signed up? <a href="#">Login now</a></div>
         </section>
     </div>
+
+    <script src="javascript/pass-show-hide.js"></script>
+    <script src="javascript/signup.js"></script>
 </body>
 </html>

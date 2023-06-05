@@ -91,5 +91,6 @@
             </a>
         </div>
     </section>
-</div>
+    </div>
+    <script src="javascript/users.js"></script>
 </body>
